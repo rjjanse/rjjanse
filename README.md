@@ -1,7 +1,7 @@
 ## Greetings weary traveller :mage:
 
-I'm Roemer [ˈrumər], a student researcher at the Leiden University Medical Center, the Netherlands and the Karolinska Institutet, Sweden. Currently, I am working on renal pharmacoepidemiology, which also encompasses my main interests: epidemiology and causal inference. My background is a BSc in medicine and I am currently doing my MSc in medicine :man_health_worker:.
+I'm Roemer [ˈrumər], a PhD candidate at the Leiden University Medical Center, the Netherland. Currently, I am working on renal epidemiology, which special interest in both causal inference and prediction. My background is a BSc in medicine :man_health_worker:. Besides epidemiology, I thoroughly enjoy programming, with this GitHub profile mainly serving making my codes openly available (besides any free-time projects).
 
-You can contact me through [Twitter](https://twitter.com/rj_janse) or send me an e-mail at r.j.janse@lumc.nl. A list of my current publications can be found [here](https://scholar.google.com/citations?user=NUUHRvgAAAAJ&hl=nl).
+You can contact me through [Twitter](https://twitter.com/rj_janse) or send me an e-mail at r.j.janse@lumc.nl. A list of my current publications can be found at my [ORCID](orcid.org/0000-0003-0059-872X) (0000-0003-0059-872X).
 
 Until we meet again!
