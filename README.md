@@ -1,10 +1,10 @@
 ## Greetings weary traveller :mage:
 
-I'm Roemer [ˈrumər], a PhD candidate at the Leiden University Medical Center, the Netherland. I am working on renal epidemiology, like to program in R, and educate the new generation of scientists. My background is a BSc in medicine :man_health_worker:.
+I'm Roemer [ˈrumər], a postdoctoral researcher at the University Medical Center Utrecht, the Netherlands. I am working on renal epidemiology, like to program in R, and educate the new generation of scientists. My background is a BSc in medicine :man_health_worker: and a PhD in clinical epidemiology with a focus on kidney disease.
 
-This page contains the codes and when possible the data for my academic projects, as well as some side projects. At the end of this document, you can find a list with which repository corresponds to which publication.
+This page contains the codes and when possible the data for my academic projects, as well as some side projects. Below, you can find a list with which repository corresponds to which publication.
 
-You can contact me at r.j.janse@lumc.nl. A list of my current publications can be found at my [ORCID](https://orcid.org/0000-0003-0059-872X) (0000-0003-0059-872X). An extensive overview of who I am is available [here](https://rjjanse.github.io). 
+A list of my current publications can be found at my [ORCID](https://orcid.org/0000-0003-0059-872X) (0000-0003-0059-872X). You can get to know me better [here](https://rjjanse.github.io). 
 
 Cheers!
 
